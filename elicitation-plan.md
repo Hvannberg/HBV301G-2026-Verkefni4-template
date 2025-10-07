@@ -23,9 +23,9 @@
 
 ## Dagskrá/Tímalína
 - 00:00–00:05 Kynning
-- 00:05–00:20 Viðskiptamarkmið
-- 00:20–00:40 Notendur og notkunartilvik
-- 00:40–00:55 Gæðakröfur og viðskiptareglur
+- 
+- Fyllið inn í eftir þörfum 
+- 
 - 00:55–01:00 Næstu skref
 
 ## Áætlaðar afurðir sem koma út úr kröfusöfnuninni 
