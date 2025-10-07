@@ -17,12 +17,15 @@
 - Búðu til einföld drög (t.d. flæði ferla, notkunartilvik, grófar skjámyndir) til að kveikja umræðu. 
 - Má t.d. vera mynd(ir) 
 - Ef þú vilt skoða núverandi kerfi með viðskiptakerfi vertu búin að undirbúa það 
+- Stjórnandi: …
+- Ritari: …
+- Viðskiptavinir/hagsmunaaðilar: …
 
 ## Dagskrá/Tímalína
-- Gerið dagskrá fyrir fundinn sem þið sendið viðskiptavininum 
-
-- 00:00–00:05 Kynning á fyrirkomulagi fundarins 
-- þið fyllið inn í hér nokkrar línur 
+- 00:00–00:05 Kynning
+- 00:05–00:20 Viðskiptamarkmið
+- 00:20–00:40 Notendur og notkunartilvik
+- 00:40–00:55 Gæðakröfur og viðskiptareglur
 - 00:55–01:00 Næstu skref
 
 ## Áætlaðar afurðir sem koma út úr kröfusöfnuninni 

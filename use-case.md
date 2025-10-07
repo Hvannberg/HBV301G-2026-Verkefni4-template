@@ -20,5 +20,5 @@
 ## Undantekningar
 - E1: …
 
-## Tengl (Traceability)
+## Tengsl (Traceability)
 - Kröfur: FR-__, UR-__ …
