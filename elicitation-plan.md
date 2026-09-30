@@ -1,25 +1,25 @@
-# Áætlun fyrir kröfugreiningarfund
+# Áætlun fyrir kröfusöfnunarviðtal
 
 ## Markmið
-- Lýsa helstu markmiðum kröfusöfnunar fyrir verkefnið sem á að greina 
+- Hvaða viðskiptamarkmið (BO-1, BO-2, ...) eru upphafspunktur kröfusöfnunarinnar?
+- Hvað þurfið þið að komast að í viðtalinu til að geta greint þarfir notenda og sett þær fram sem notendakröfur?
 
 ## Áætlaður staður og stund fyrir fundinn 
+Staður, dagur og tími
 
 ## Þátttakendur og hlutverk
-- Facilitator: Hver stýrir fundinum, hlutverk 
-- Ritari: Hver skráir niður spurningar og svör eða sér um upptöku og að færa á textaform, hlutverk
-- Viðskiptavinir/hagsmunaaðilar: Hver eru boðuð á fundinn frá viðskiptavini, hlutverk  
+
+### Teymi A – kröfugreinendur
+- **Stjórnandi viðtals:** Hver stýrir viðtalinu og ber ábyrgð á að markmiðum þess sé náð?
+- **Ritari:** Hver skráir niðurstöður viðtalsins? Ef viðtalið er tekið upp, hver ber ábyrgð á upptöku og úrvinnslu hennar?
+- **Aðrir þátttakendur:** Hvaða hlutverki gegna aðrir meðlimir teymisins í viðtalinu?
+
+### Teymi B – viðskiptavinur
+- Nafn þátttakenda frá viðskiptavinateyminu 
 
 ## Aðferð kröfusöfnunar
-- Lýsið aðferð kröfusöfnunar, t.d. ef viðtal, þá spurningar (sjá námsefni)
-
-## Líkön til að kveikja umræðu, skjöl og kerfi 
-- Búðu til einföld drög (t.d. flæði ferla, notkunartilvik, grófar skjámyndir) til að kveikja umræðu. 
-- Má t.d. vera mynd(ir) 
-- Ef þú vilt skoða núverandi kerfi með viðskiptakerfi vertu búin að undirbúa það 
-- Stjórnandi: …
-- Ritari: …
-- Viðskiptavinir/hagsmunaaðilar: …
+- Lýsið stuttlega hvernig þið ætlið að framkvæma viðtalið.
+- Undirbúið spurningar og viðfangsefni sem þið ætlið að taka fyrir í viðtalinu.
 
 ## Dagskrá/Tímalína
 - 00:00–00:05 Kynning
@@ -28,6 +28,10 @@
 - 
 - 00:55–01:00 Næstu skref
 
-## Áætlaðar afurðir sem koma út úr kröfusöfnuninni 
+## Skráning niðurstaðna
+
+- Hvernig ætlið þið að skrá niðurstöður viðtalsins þannig að hægt sé að vinna úr þeim eftir fundinn?
 
 ## Áhætta sem getur hindrað kröfusöfnun 
+
+- Hvað gæti hindrað að kröfusöfnunin skili þeim upplýsingum sem þið þurfið?
